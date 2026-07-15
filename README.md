@@ -1,8 +1,3 @@
-<img width="1600" height="724" alt="rtppic5" src="https://github.com/user-attachments/assets/6872a0ee-8750-4a3b-b846-ba6c85c94849" />
-<img width="1600" height="714" alt="rtppic4" src="https://github.com/user-attachments/assets/eb265413-37c9-43de-9361-65c3869c0aeb" />
-<img width="1600" height="677" alt="rtppic3" src="https://github.com/user-attachments/assets/3ecfd4dc-1fad-4613-a592-9cb2ccb64150" />
-<img width="1600" height="678" alt="rtppic2" src="https://github.com/user-attachments/assets/cb5dd09a-c269-4a69-b51e-8751552184ae" />
-<img width="1600" height="830" alt="rtp1pic" src="https://github.com/user-attachments/assets/56cb7ffc-17a1-4177-a54c-995709e74ef2" />
 # 📰 Intelligent Fake News Detection Using Transformer Models
 
 An AI-powered application that leverages **Transformer-based Natural Language Processing (NLP)** models to accurately classify news articles as **Real** or **Fake**. The system is designed to combat the spread of misinformation by analyzing the contextual meaning of news content and providing reliable predictions.
@@ -71,3 +66,9 @@ This project showcases the integration of **Artificial Intelligence, Machine Lea
 4. The tokenized data is passed to the **BERT model**, which learns the contextual meaning and relationships between words during training.
 5. The trained model analyzes new input news articles and predicts whether they are **Real** or **Fake** based on the learned patterns.
 6. The prediction is displayed to the user, providing a quick and reliable assessment of the authenticity of the news article.
+
+<img width="1600" height="724" alt="rtppic5" src="https://github.com/user-attachments/assets/6872a0ee-8750-4a3b-b846-ba6c85c94849" />
+<img width="1600" height="714" alt="rtppic4" src="https://github.com/user-attachments/assets/eb265413-37c9-43de-9361-65c3869c0aeb" />
+<img width="1600" height="677" alt="rtppic3" src="https://github.com/user-attachments/assets/3ecfd4dc-1fad-4613-a592-9cb2ccb64150" />
+<img width="1600" height="678" alt="rtppic2" src="https://github.com/user-attachments/assets/cb5dd09a-c269-4a69-b51e-8751552184ae" />
+<img width="1600" height="830" alt="rtp1pic" src="https://github.com/user-attachments/assets/56cb7ffc-17a1-4177-a54c-995709e74ef2" />
